@@ -13,6 +13,6 @@ Number of hours:
  *  Did you encounter any serious problems? If yes, please describe.
  ******************************************************************************/
 
-Yes or no? 
+Yes or no
 
 
