@@ -5,13 +5,6 @@ Programming Assignment 0:  Hello, World
  *  Approximately how many hours did it take you to complete this assignment?
  ******************************************************************************/
 
-Number of hours:
-
-
-
-/****************************************************************************** 
- *  Did you encounter any serious problems? If yes, please describe.
- *****************************************************/
-
+Number of hours: 2
 
 
