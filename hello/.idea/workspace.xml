@@ -82,15 +82,25 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/abel/Documents/projects/Princeton-ALGOS-DS/hello[COS226]&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloGoodbye.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.RandomWord.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/abel/Documents/algs4.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.HelloGoodbye">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RandomWord">
     <configuration name="HelloGoodbye" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HelloGoodbye" />
       <module name="COS 126" />
@@ -100,6 +110,12 @@
     <configuration name="HelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomWord" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomWord" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="john james" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
