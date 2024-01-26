@@ -1,4 +1,4 @@
-Programming Assignment 0:  Hello, World
+Programming Assignment 0:
 
 
 /****************************************************************************** 
