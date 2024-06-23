@@ -1,4 +1,4 @@
-# Dynamic Connectivity
+# Dynamic Connectivity Problem
 
 Given a set of n elements:
 
@@ -12,15 +12,19 @@ If I have 3 objects `p`, `q`, `r`, are they connected?
 2. **Symmetric**: If `p` is connected to `q`, then `q` is connected to `p`.
 3. **Transitive**: If `p` is connected to `q` and `q` is connected to `r`, then `p` is connected to `r`.
 
-### Example of maximum set of mutually connected objects
-![Example Illustration](../../assets/images/object_connections.png)
+<details>
+    <summary><h3>Example of maximum set of mutually connected objects</h3></summary>
+    <img src="../../assets/images/object_connections.png" alt="Example of maximum set of mutually connected objects">
+</details>
 
-### Example Question
-![Example Illustration](../../assets/images/dynamic_connectivity_image.png)
+<details>
+    <summary><h3>Example Question</h3></summary>
+    <img src="../../assets/images/dynamic_connectivity_image.png" alt="Example Question">
+</details>
 
-## Real-World Applications
+<details>
+  <summary><h3>Real-World Applications | Modelling of the objects</h3></summary>
 Dynamic connectivity can be applied in various real-world applications, including:
-
 
 | Application Domain                       | Examples                                                 |
 |------------------------------------------|----------------------------------------------------------|
@@ -34,3 +38,8 @@ Dynamic connectivity can be applied in various real-world applications, includin
 | **Game Development**                     | - Pathfinding<br>- Region Management                     |
 | **Software Engineering**                 | - Version Control Systems<br>- Dynamic Memory Management |
 | **Distributed Systems**                  | - Resource Allocation                                    |
+
+</details>
+
+### Operations | DATA STRUCTURE TO SOLVE DYNAMIC CONNECTIVITY
+- Using [quick-find]()
