@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c55d2190-7db0-466d-b5aa-881828e6be8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/Screenshot from 2024-06-22 16-25-48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UnionFind/QuickFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UnionFind/QuickFind.java" afterDir="false" />
-    </list>
+    <list default="true" id="c55d2190-7db0-466d-b5aa-881828e6be8e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +57,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RandomWord">
     <configuration name="HelloGoodbye" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloGoodbye" />
       <module name="Algos" />
@@ -82,19 +76,6 @@
     <configuration name="RandomWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RandomWord" />
       <module name="Algos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Algos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Algos" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

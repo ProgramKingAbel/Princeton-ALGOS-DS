@@ -3,6 +3,7 @@ package UnionFind;
 // The eager approach
 public class QuickFind {
     private int[] id;
+    private int count;
 
     // set the id of each object to itself ->  N array accesses
     public QuickFind(int N) {
@@ -17,14 +18,21 @@ public class QuickFind {
         return id[p] == id[q];
     }
 
+    public int find(int x) {
+        return id[x];
+    }
     // change all entries of id[p] to id[q] -> at most 2N + 2 array access
     public void union(int p, int q) {
-        int pID = id[p];
-        int qID = id[q];
+        int pID = find(p);
+        int qID = find(q);
 
-        for (int i = 0; i < id.length; i++) {
+        if (pID == qID) return;
+
+        for (int i = 0; i < id.length; i++)
             if (id[i] == pID) id[i] = qID;
-        }
+
+        count --;
+
     }
 }
 
